@@ -43,6 +43,7 @@ git commit -m "message"
 * 😭
 * 😁
 * 👀
+* 😊
 <!-- This content is hidden -->
 
 ## 11. Footnote
